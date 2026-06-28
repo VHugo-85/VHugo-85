@@ -14,18 +14,18 @@
 
 <p align="center">
   <!-- Badges / enlaces académicos y profesionales — sustituye por tus URLs reales -->
-  <a href="[URL_GOOGLE_SCHOLAR]"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-  <a href="https://orcid.org/[TU_ID_ORCID]"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="[URL_LINKEDIN]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=AguZClcAAAAJ&hl=es"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://orcid.org/0000-0001-9476-0665"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rodr%C3%ADguez-salguera/?skipRedirect=true"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest"><img alt="Zenodo" src="https://img.shields.io/badge/Zenodo-1A6CE8?style=for-the-badge&logo=zenodo&logoColor=white" /></a>
   <a href="https://github.com/VHugo-85"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[URL_INATURALIST]"><img alt="iNaturalist" src="https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white" /></a>
+  <a href="https://www.inaturalist.org/people/rodriguez-salguera"><img alt="iNaturalist" src="https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <strong>Víctor Hugo Rodríguez Salguera</strong> — Agri-Data Scientist · Agroecología computacional · Ciencia de datos aplicada a producción sostenible y monitoreo ecológico.
+  <strong>Víctor Hugo Rodríguez Salguera</strong> — Agri-Data Scientist · Agroecología computacional · Ciencia de datos aplicada a producción sostenible.
   <br/>
-  Me especializo en R y Python para análisis espacial, modelado estadístico y pipelines reproducibles orientados a decisiones agronómicas.
+  Me especializo en R y Python para análisis espacial, forecasting, machine learning, analisis y modelado estadístico y pipelines reproducibles orientados a decisiones agronómicas.
 </p>
 
 ---
@@ -96,11 +96,11 @@
 
 ## ✉️ Contacto y colaboración
 
-- Correo: [TU_EMAIL]
-- LinkedIn: [URL_LINKEDIN]
-- Google Scholar: [URL_GOOGLE_SCHOLAR]
-- ORCID: https://orcid.org/[TU_ID_ORCID]
-- iNaturalist: [URL_INATURALIST]
+- Correo: vhugor0585@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rodr%C3%ADguez-salguera/?skipRedirect=true
+- Google Scholar: https://scholar.google.com/citations?user=AguZClcAAAAJ&hl=es
+- ORCID: https://orcid.org/0000-0001-9476-0665
+- iNaturalist: https://www.inaturalist.org/people/rodriguez-salguera
 - Zenodo: https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
 
 ---
@@ -113,7 +113,7 @@
 <p align="center">
   Hecho con :seedling: · Perfil profesional para investigación y código abierto.
   <br/>
-  © Víctor Hugo Rodríguez Salguera · Última actualización: [FECHA]
+  © Víctor Hugo Rodríguez Salguera · Última actualización: 28-06-2026
 </p>
 
 <sub>Licencia sugerida: CC BY 4.0 — modifica libremente para tu perfil.</sub>
