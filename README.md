@@ -1,36 +1,31 @@
 <!--
   README para perfil de GitHub - Agri-Data Scientist (Víctor Hugo Rodríguez Salguera)
-  Instrucciones rápidas:
+  INSTRUCCIONES RÁPIDAS:
   - Reemplaza los placeholders entre corchetes [] por tus valores reales antes de publicar.
-  - Este README está diseñado para el repositorio cuyo nombre debe ser exactamente: VHugo-85
-  - Si quieres un GIF o SVG, súbelo a /assets y actualiza las URLs en las secciones indicadas.
-  - IMPORTANTE: Cuando pegues este contenido en GitHub, NO incluyas las triple-backticks ``` que rodean este bloque.
+  - Este README está diseñado para el repositorio llamado exactamente: VHugo-85 (nombre de usuario).
+  - Si ya existe un README en ese repo, este commit lo CREARÁ o lo REEMPLAZARÁ.
+  - Si quieres que yo agregue assets (GIF/SVG), súbelos a /assets y actualiza las URLs en el README.
 -->
 
 <p align="center">
-  <!-- Animated typing title (readme-typing-svg) -->
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=FFFFFF&background=00000000&width=900&lines=Hola,+soy+Víctor+Hugo+Rodr%C3%ADguez+Salguera;Agri-Data+Scientist+%C2%B7+Agroecolog%C3%ADa+Computacional;Transformando+datos+en+decisiones" />
+  <!-- Animated header SVG hosted in repo -->
+  <img alt="Header SVG" src="https://raw.githubusercontent.com/VHugo-85/VHugo-85/main/assets/header.svg" width="900" />
 </p>
 
 <p align="center">
-  <!-- Si quieres un GIF sutil, sube el archivo a /assets y descomenta la línea siguiente, reemplazando assets/mi-gif.gif por la ruta real -->
-  <!-- <img alt="Subtle GIF" src="https://raw.githubusercontent.com/VHugo-85/VHugo-85/main/assets/mi-gif.gif" width="720" style="border-radius:10px;opacity:0.95" /> -->
-</p>
-
-<p align="center">
-  <!-- Badges / enlaces académicos y profesionales — reemplaza los placeholders por tus URLs reales -->
-  <a href="[https://scholar.google.com/citations?user=AguZClcAAAAJ&hl=es]"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-  <a href="https://orcid.org/0000-0001-9476-0665"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rodr%C3%ADguez-salguera/?skipRedirect=true"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- Badges / enlaces académicos y profesionales — sustituye por tus URLs reales -->
+  <a href="[URL_GOOGLE_SCHOLAR]"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://orcid.org/[TU_ID_ORCID]"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="[URL_LINKEDIN]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest"><img alt="Zenodo" src="https://img.shields.io/badge/Zenodo-1A6CE8?style=for-the-badge&logo=zenodo&logoColor=white" /></a>
   <a href="https://github.com/VHugo-85"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.inaturalist.org/people/rodriguez-salguera"><img alt="iNaturalist" src="https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white" /></a>
+  <a href="[URL_INATURALIST]"><img alt="iNaturalist" src="https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <strong>Víctor Hugo Rodríguez Salguera</strong> — Agri-Data Scientist · Agroecología computacional · Ciencia de datos aplicada a producción sostenible y monitoreo ecológico.
   <br/>
-  Especializado en R y Python para análisis espacial, modelado estadístico y pipelines reproducibles orientados a decisiones agronómicas.
+  Me especializo en R y Python para análisis espacial, modelado estadístico y pipelines reproducibles orientados a decisiones agronómicas.
 </p>
 
 ---
@@ -38,6 +33,7 @@
 ## 🛠️ Stack tecnológico
 
 <!-- Nota técnica: esta sección puede automatizarse detectando dependencias en tus repositorios (requirements.txt, DESCRIPTION, environment.yml) -->
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -74,24 +70,16 @@
   </tr>
 </table>
 
-<!-- Nota para desarrolladores:
-     - Los colores hex usados son los más comunes; si quieres exactitud absoluta, revisa https://simpleicons.org/ y ajusta los valores en las URLs de shields.io.
-     - Para generar esta sección automáticamente, considera un action que lea requirements.txt/DESCRIPTION y actualice README_TECH.md.
--->
-
 ---
 
 ## 📊 Métricas y rendimiento (dinámico)
 
 <p align="center">
-  <!-- Estadísticas generales -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VHugo-85&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
-  <!-- Racha de contribuciones -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VHugo-85&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Lenguajes principales -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHugo-85&layout=compact&theme=tokyonight" />
 </p>
 
@@ -108,33 +96,24 @@
 
 ## ✉️ Contacto y colaboración
 
-- Correo: vhugor0585@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rodr%C3%ADguez-salguera/?skipRedirect=true
-- Google Scholar: https://scholar.google.com/citations?user=AguZClcAAAAJ&hl=es
-- ORCID: https://orcid.org/0000-0001-9476-0665 
-- iNaturalist: https://www.inaturalist.org/people/rodriguez-salguera  
-- Zenodo (publicaciones/datos): https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
-
-Abierto a proyectos de ciencia de datos agrarios.
+- Correo: [TU_EMAIL]
+- LinkedIn: [URL_LINKEDIN]
+- Google Scholar: [URL_GOOGLE_SCHOLAR]
+- ORCID: https://orcid.org/[TU_ID_ORCID]
+- iNaturalist: [URL_INATURALIST]
+- Zenodo: https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
 
 ---
 
-## 🔁 Automatización recomendada
+## 🔁 Automatización recomendada (resumen)
 
-- Añadir un GitHub Action que:
-  - Detecte dependencias (requirements.txt, environment.yml, DESCRIPTION).
-  - Genere/actualice README_TECH.md con el stack detectado.
-  - Opcional: recupere tráfico de repos para ordenar los "Top Repos" (esto requiere un token con permisos de lectura de tráfico).
-- Herramientas útiles:
-  - github-readme-stats
-  - github-readme-streak-stats
-  - gh-readme-tech-stack o un script propio
-
----
+- Añade un GitHub Action que detecte dependencias (requirements.txt, environment.yml, DESCRIPTION) y actualice README_TECH.md.
+- Herramientas útiles: github-readme-stats, github-readme-streak-stats, gh-readme-tech-stack o script propio.
 
 <p align="center">
-  Hecho con :seedling: · Perfil profesional para investigación y código abierto.  
-  © Víctor Hugo Rodríguez Salguera · Última actualización: 27-06-2026
+  Hecho con :seedling: · Perfil profesional para investigación y código abierto.
+  <br/>
+  © Víctor Hugo Rodríguez Salguera · Última actualización: [FECHA]
 </p>
 
 <sub>Licencia sugerida: CC BY 4.0 — modifica libremente para tu perfil.</sub>
