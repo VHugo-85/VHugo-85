@@ -26,11 +26,11 @@
 <p align="center">
   <!-- Badges / enlaces académicos y profesionales — reemplaza los placeholders por tus URLs reales -->
   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([URL_GOOGLE_SCHOLAR])
-  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/[TU_ID_ORCID])
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([URL_LINKEDIN])
+  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/[[TU_ID_ORCID](https://orcid.org/0000-0001-9476-0665)])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rodr%C3%ADguez-salguera/])
   [![Zenodo](https://img.shields.io/badge/Zenodo-1A6CE8?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VHugo-85)
-  [![iNaturalist](https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white)]([URL_INATURALIST])
+  [![iNaturalist](https://img.shields.io/badge/iNaturalist-FF6C00?style=for-the-badge&logo=inaturalist&logoColor=white)]([https://www.inaturalist.org/people/rodriguez-salguera])
 </p>
 
 <p align="center">
