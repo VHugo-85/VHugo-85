@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <g font-family="DejaVu Sans, Arial, Helvetica, sans-serif" fill="#FFFFFF" font-size="22">
+    <text x="50" y="50" opacity="0">
+      <tspan font-weight="700" font-size="26">Hola, soy Víctor Hugo Rodríguez Salguera</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.6s" fill="freeze"/>
+    </text>
+    <text x="50" y="90" opacity="0">
+      <tspan>Agri-Data Scientist · Agroecología computacional</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.6s" fill="freeze"/>
+    </text>
+    <text x="50" y="125" opacity="0">
+      <tspan>Transformando datos en decisiones</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.6s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
