@@ -73,14 +73,6 @@
   <img src="https://img.shields.io/badge/Streamlit-%E2%AC%A2-maroon?style=plastic" alt="Streamlit" />
 </p>
 
-<h2 align="center">✉️ Contact & Collaboration</h2>
-
-<p align="center">
-  <strong>Email:</strong> vhugor0585@gmail.com  |  
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rodr%C3%ADguez-salguera/?skipRedirect=true">Profile</a>  |  
-  <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=AguZClcAAAAJ&hl=es">Citations</a>
-</p>
-
 ---
 
 <p align="center">
